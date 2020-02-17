@@ -2,7 +2,7 @@
 
 A novel approach for Hyperparameter Optimization (setting: Deep Learning)
 
-Project Team: Ahmed Almostafa Gashgash, Ziyang Wu, Andreas Schoenleben
+Team: Ahmed Almostafa Gashgash, Ziyang Wu, Andreas Schoenleben
 
 Paper: https://ahmedgsh.github.io/papers/hp%20robust%20pca.pdf
 
